@@ -2,15 +2,7 @@
 
 ![Financial_Complaints_KPI_Analysis_Project (2)](https://user-images.githubusercontent.com/124501309/224553693-ab29f165-698d-49e6-931f-95079852d7e8.png)
 
-## LINKS:
 
-Lets Connect 
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsDashboardRWFD_16786353606930/Dashboard?publish=yes)
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsKPIBlack/FCOVERVIEW2?publish=yes)
 
 ## OVERVIEW:
     PROJECT NAME
@@ -72,15 +64,8 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
    8. Disputed customers percentage.
 
-## DASHBOARD:
-
-![FC OVERVIEW WHITE](https://user-images.githubusercontent.com/124501309/224550453-852c3457-bd5a-4b7a-9027-7e1ddc31fae8.png)
-
-### VIDEO:
 
 
-
-https://user-images.githubusercontent.com/124501309/224553859-6b8d6d44-ab4f-4b65-ba5d-b499a409faee.mp4
 
 
 
@@ -124,26 +109,11 @@ https://user-images.githubusercontent.com/124501309/224553859-6b8d6d44-ab4f-4b65
 
    4) If we talk about product, Maximum no. of complaints are of credit card.
 
-## NOTE:
+## DASHBOARD:
 
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+![FC OVERVIEW WHITE](https://user-images.githubusercontent.com/124501309/224550453-852c3457-bd5a-4b7a-9027-7e1ddc31fae8.png)
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-### Here is Dashboard in Black. Tell me which one do you like??
-
-![FC OVERVIEW BLACK](https://user-images.githubusercontent.com/124501309/224552451-951db0d3-48f4-4467-b602-8561751a0eb5.png)
-
-## My Other Projects:
-
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
-
-- [HR Analytics using Tableau](https://github.com/gulshang7/HR-Analytics-Dashboard-Using-Tableau) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
+***
 
 
