@@ -111,7 +111,8 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
 ## DASHBOARD:
 
-![FC OVERVIEW WHITE](https://user-images.githubusercontent.com/124501309/224550453-852c3457-bd5a-4b7a-9027-7e1ddc31fae8.png)
+![Screenshot 2023-06-22 221034](https://github.com/Yashodatta15/FINANCIAL-COMPALINTS/assets/118357421/4847f27c-0a43-4c80-a05d-ddca86ef32f4)
+
 
 
 ***
