@@ -73,7 +73,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
    1) KPIs are placed at the top of the dashboard, to easily view the figures associated with 'Total Complaints', 'Timely Response', 'Complaints In Progress', 'Disputed Rate' and 'Resolved at No Cost'.
 
-   2) Complaints are segmented by 'Issue', 'States', 'Media', 'Product'. For States, a ‘hex map’ is used, for Media, a ‘Lollipop’ chart is used.
+   2) Complaints are segmented by 'Issue', 'States', 'Media', 'Product'. For States, a ‘map’ is used, for Media, a ‘Lollipop’ chart is used.
 
    3) A ‘Donut’ Chart is used to show the percentage of disputed customers.
 
