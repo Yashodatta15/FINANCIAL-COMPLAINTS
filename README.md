@@ -77,7 +77,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
    3) A ‘Donut’ Chart is used to show the percentage of disputed customers.
 
-   4) I received inspiration for the 'Hex Tile Maps' from 'Sir Viz-a-lot' blogs by "Matt Chambers, MBA".
+
 
 ## Insight Gained:
 
